@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelfattah Ashraf</h1>
 <h3 align="center">Jr Data Analyst</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelfattahashraf10&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattahashraf10" /> </p>
 
