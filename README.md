@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abdelfattahashraf80@gmail.com**
 
-- 📄 Know about my experiences [https://urlshortly.com/rynld](https://rb.gy/64kzx)
+- 📄 Know about my experiences https://rb.gy/64kzx
 
 - ⚡ Fun fact **It’s impossible to hum while holding your nose😂😂**
 
