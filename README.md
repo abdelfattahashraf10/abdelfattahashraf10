@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1800)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Abdelfattah Ashraf</h1>
 <h3 align="center">Jr Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/bnyJ7">
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdelfattahashraf80@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rb.gy/64kzx) 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13Ab35Oyp_5k6liDoIAduhFEl54RxU3J4/view?usp=drive_link) 
 
 - ⚡ Fun fact **It’s impossible to hum while holding your nose😂😂**
 
