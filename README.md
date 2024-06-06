@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdelfattah_80" target="blank"><img src="https://img.shields.io/twitter/follow/abdelfattah_80?logo=twitter&style=for-the-badge" alt="abdelfattah_80" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Data Analysis, Artificial Intelligence, Front-End**
 
